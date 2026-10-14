@@ -1,0 +1,5 @@
+CIS 483 - Homework 1
+This project is a basic HTML webpage for my web development class.
+HTML is used to structure the content of a webpage.
+Git tracks changes made to files.
+GitHub stores and shares Git repositories online.
